@@ -1,6 +1,6 @@
 MAIN README.txt
 
-## ASIM
+## AIM
 This archive contains all datasets and codes used in the manuscript. The structure has been organized to avoid confusion: each folder corresponds to a specific component of the study and contains its own README file with detailed instructions.
 
 ## Structure
