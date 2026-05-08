@@ -4,9 +4,8 @@ MAIN README.txt
 This archive contains all datasets and codes used in the manuscript. The structure has been organized to avoid confusion: each folder corresponds to a specific component of the study and contains its own README file with detailed instructions.
 
 ## Structure
--
 
- Contains the Python scripts used for analyses presented in the manuscript.  
+- Contains the Python scripts used for analyses presented in the manuscript.  
  
 
 - **Per-folder README files/**  
